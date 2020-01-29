@@ -1,7 +1,12 @@
 {
+<<<<<<< Updated upstream
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "angular1",
+  "version": "1.0.0",
+>>>>>>> Stashed changes
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,5 +35,10 @@
     "gulp-watch": "4.3.11",
     "gulp-webserver": "0.9.1",
     "run-sequence": "2.2.0"
+<<<<<<< Updated upstream
   }
+=======
+  },
+  "description": ""
+>>>>>>> Stashed changes
 }

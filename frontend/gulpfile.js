@@ -7,9 +7,17 @@ require('./gulpTasks/deps')
 require('./gulpTasks/server')
 
 gulp.task('default', () => {
+<<<<<<< Updated upstream
     if(util.env.production) {
         sequence('deps', 'app')
     } else {
         sequence('deps', 'app', 'server')
     }
+=======
+  if(util.env.production) {
+    sequence('deps', 'app')
+  } else {
+    sequence('deps', 'app', 'server')
+  }
+>>>>>>> Stashed changes
 })
