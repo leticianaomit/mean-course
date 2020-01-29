@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 html{
     background-color: #ecf0f5;
 }
@@ -9,3 +10,18 @@ html{
 .table-actions {
     width: 140px;
 }
+=======
+html {
+  background-color: #ecf0f5;
+}
+
+.main-footer {
+  position: fixed;
+  bottom:0px;
+  width:100%;
+}
+
+#toast-container {
+  top: 70px;
+}
+>>>>>>> Stashed changes
